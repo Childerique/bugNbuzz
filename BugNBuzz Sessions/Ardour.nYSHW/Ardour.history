@@ -2119,17 +2119,5 @@
         <Location id="7581981" name="mark58" start="0" end="0" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
       </Locations>
     </MementoCommand>
-    <MementoCommand obj-id="42" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="454038" left-frame="0" y-origin="908">
-        <Selection>
-          <StripableView id="1226925"/>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="454038" left-frame="0" y-origin="908">
-        <Selection>
-          <Marker id="7581981" start="1"/>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
   </UndoTransaction>
 </UndoHistory>
